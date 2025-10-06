@@ -36,7 +36,7 @@ A ROS2 Python package for visualizing robot path planning and navigation:
 #### Features
 
 - **Path Visualization**: Displays planned global paths in RED
-- \*_Trajectory Visualization_ \*: Shows local planned trajectories in BLUE (temporary, 1-second lifetime)
+- **Trajectory Visualization**: Shows local planned trajectories in BLUE (temporary, 1-second lifetime)
 - **Executed Path Tracking**: Records and displays the robot's actual executed path in GRAY
 - **Real-time Updates**: Subscribes to odometry data for continuous path tracking
 
